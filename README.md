@@ -1,2 +1,2 @@
 # disturbance
-@disturbance custom theme. site with an artist repository and documentation from a series of events.
+@disturbance custom Wordpress theme. Site with an artist repository and documentation from a series of events.
